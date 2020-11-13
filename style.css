@@ -34,3 +34,12 @@ hr {
 #exampleH {
     color: white;
 }
+
+#formBtn {
+    background-color: goldenrod;
+}
+
+#formBtn:hover {
+    background-color: rgb(3, 48, 3);
+    color: white;
+}
