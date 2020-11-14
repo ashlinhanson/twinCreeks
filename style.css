@@ -30,3 +30,16 @@ hr {
     height: 50px;
     position: static;
 }
+
+#exampleH {
+    color: white;
+}
+
+.btn {
+    background-color: goldenrod;
+}
+
+#formBtn:hover {
+    background-color: rgb(3, 48, 3);
+    color: white;
+}
