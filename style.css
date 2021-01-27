@@ -15,7 +15,7 @@ body {
 }
 
 #mainCard {
-    background-color: #0A2239;
+    background-color: white;
 }
 
 hr {
@@ -31,15 +31,19 @@ hr {
     position: static;
 }
 
-#exampleH {
-    color: white;
-}
-
-#formBtn {
+.btn {
     background-color: goldenrod;
 }
 
-#formBtn:hover {
+.btn:hover {
     background-color: rgb(3, 48, 3);
     color: white;
+}
+
+svg {
+    color: goldenrod;
+}
+
+svg:hover {
+    color: rgb(3, 48, 3);
 }
