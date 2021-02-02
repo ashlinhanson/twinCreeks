@@ -33,11 +33,21 @@ hr {
 
 .btn {
     background-color: #cd9341;
+    color:#20334d;
 }
 
 .btn:hover {
     background-color: #20334d;
     color: white;
+}
+
+a {
+    color:#cd9341;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#20334d;
 }
 
 h1, h3, h2 {
